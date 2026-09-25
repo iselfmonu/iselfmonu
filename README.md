@@ -1,116 +1,162 @@
-<h1 align="center">Hey 👋 I'm ĐJ 🚀</h1>
+<h1 align="center">Hey 👋 I'm Monu 🚀</h1>
 
 <h3 align="center">
-Creative Mobile Engineer • AI Integrator • Scalable Discord Architect
+Creative Technologist • Designer • Founder • AI Builder
 </h3>
 
 <p align="center">
-I design smooth interfaces, build real-time systems,  
-and engineer AI-powered automation experiences.
+I design brands, build digital products, and use AI to turn ideas into scalable experiences.
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=iiknowdj@proton.me"><strong>📩 Hire Me</strong></a> •
-  <a href="https://www.instagram.com/iiknowdj/"><strong>💬 Instgram</strong></a>
+  <a href="mailto:monubaghell@rediffmail.com"><strong>📩 Hire Me</strong></a> •
+  <a href="https://www.linkedin.com/in/monudzinr/"><strong>💼 LinkedIn</strong></a> •
+  <a href="https://www.behance.net/iiknowdj"><strong>🎨 Behance</strong></a> •
+  <a href="https://www.instagram.com/iiknowdj/"><strong>📸 Instagram</strong></a>
 </p>
 
 ---
 
-## 🧠 Mission
+## 🧠 About Me
 
-To build digital systems that are **fast, scalable, intelligent, and beautifully designed.**
+I'm a **Creative Designer, Art Director, and Founder** with 7+ years of experience across branding, marketing, digital products, and visual storytelling.
 
-I merge UI/UX creativity with backend engineering depth to deliver products that not only look premium — but perform at scale.
+I work at the intersection of **design × technology × AI**, building visual identities, digital experiences, marketing systems, and product concepts that are designed to actually work in the real world.
 
----
-
-## 🚀 What I Build
-
-### 📱 Mobile Applications (iOS & Android)
-- Cross-platform apps (Flutter / React Native)
-- Advanced SwiftUI interfaces
-- Real-time sync architectures
-- AI-powered mobile features
-- High-performance UI systems
-
-### 🤖 Scalable Discord Systems
-- Sharded bot architecture
-- Large community automation
-- AI-driven command systems
-- Moderation & analytics dashboards
-- Real-time data processing
-
-### 🌐 Creative Web Experiences
-- Animated landing pages
-- Glassmorphism interfaces
-- SaaS dashboards
-- API-integrated systems
-- High-converting UI design
-
-### 🧬 AI Integrations
-- AI inside apps & bots
-- Intelligent workflow automation
-- Model integration (TensorFlow / PyTorch)
-- Real-time AI response systems
+Currently building businesses, experimenting with AI-powered workflows, and turning ambitious ideas into brands and products.
 
 ---
 
-## 🛠 Core Stack
+## 🚀 What I Do
 
-**Mobile**
-Swift • Flutter • React Native • Android
+### 🎨 Brand & Creative Direction
 
-**Frontend**
-React • TailwindCSS • JavaScript • Advanced Animations
+- Brand identity & visual systems
+- Art direction
+- Creative campaigns
+- Social media & digital design
+- Marketing design systems
+- Visual storytelling
+- 3D & motion graphics
 
-**Backend**
-Node.js • Express • Firebase • MongoDB • PostgreSQL • Redis
+### 💻 Digital Products & Experiences
 
-**Cloud & DevOps**
-AWS • GCP • Docker • Git
+- Product UI/UX
+- SaaS interfaces
+- Landing pages
+- Design systems
+- Interactive web experiences
+- Mobile-first interfaces
+- Prototypes & MVP concepts
+
+### 🤖 AI-Powered Creative Systems
+
+- AI-assisted design workflows
+- Generative visual systems
+- AI content pipelines
+- Creative automation
+- AI integrations
+- Workflow automation
+- AI-powered product concepts
+
+### 🚀 Startup & Product Building
+
+- Product ideation
+- Brand strategy
+- Go-to-market concepts
+- SaaS & marketplace ideas
+- MVP planning
+- Product positioning
+- Growth & marketing systems
+
+---
+
+## 🛠️ Core Stack
+
+**Design**
+
+Adobe Creative Cloud • Figma • Blender • After Effects • Premiere Pro
+
+**Web & Product**
+
+HTML • CSS • JavaScript • React • TailwindCSS
 
 **AI**
-Python • TensorFlow • PyTorch • OpenAI APIs
+
+OpenAI APIs • Generative AI • AI Image Tools • AI Automation • Prompt Engineering
+
+**Backend & Data**
+
+Node.js • Firebase • MongoDB • PostgreSQL • REST APIs
+
+**Workflow**
+
+Git • GitHub • Notion • Framer • Webflow • Canva
 
 ---
 
-## ⚡ Specializations
+## ⚡ What I'm Interested In
 
 ```txt
-Real-Time Architecture
-Discord Bot Sharding & Scaling
-AI Workflow Automation
-Creative UI/UX Systems
-Mobile-First Engineering
+Creative Technology
+AI-Powered Products
+Brand & Product Design
+SaaS
+Marketplaces
+PropTech
+FoodTech
+Design Systems
+Creative Automation
+Startup Building
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Currently Building
+
+### 🏢 DRAG Studiio
+
+A creative + marketing agency helping brands launch, grow, and communicate through design, content, and digital experiences.
+
+### 🍔 Essio
+
+A food delivery marketplace built around a simple idea:
+
+**Fast. Fresh. Worth looking forward to.**
+
+### 🚀 More Ideas
+
+Always experimenting with new products, SaaS concepts, automation systems, and businesses at the intersection of **technology and creativity**.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whodrag&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whodrag&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iselfmonu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iselfmonu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Work With Me
+## 🤝 Let's Build Something
 
-If you're looking for:
+I'm open to collaborating on:
 
-✔ A polished mobile app  
-✔ A scalable Discord bot system  
-✔ AI integrated into your product  
-✔ A high-performance animated web interface  
+✔ Creative technology  
+✔ AI-powered products  
+✔ SaaS & startup ideas  
+✔ Brand & product design  
+✔ Digital experiences  
+✔ Creative automation  
+✔ Interesting experiments  
 
-Let’s build something powerful.
+If you have an ambitious idea, **I'd love to hear it.**
 
-📩 Email: **iiknowdj@proton.me**  
-💬 Discord: **https://discord.gg/dPpe3QxXbP**
+📩 **Email:** monubaghell@rediffmail.com
 
 ---
 
 <p align="center">
-  <strong>Clean code. Scalable systems. Intelligent products.</strong>
+  <strong>Design boldly. Build intelligently. Ship relentlessly. 🚀</strong>
 </p>
