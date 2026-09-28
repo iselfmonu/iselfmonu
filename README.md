@@ -11,7 +11,7 @@ I design brands, build digital products, and use AI to turn ideas into scalable 
 <p align="center">
   <a href="mailto:monubaghell@rediffmail.com"><strong>📩 Hire Me</strong></a> •
   <a href="https://www.linkedin.com/in/monudzinr/"><strong>💼 LinkedIn</strong></a> •
-  <a href="https://www.behance.net/iiknowdj"><strong>🎨 Behance</strong></a> •
+  <a href="https://www.behance.net/iiknowdj"><strong>🎨 Behance</strong></a>
 </p>
 
 ---
